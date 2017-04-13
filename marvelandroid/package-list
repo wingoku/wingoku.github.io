@@ -1,0 +1,14 @@
+com.wingoku.marvel
+com.wingoku.marvel.adapters
+com.wingoku.marvel.application
+com.wingoku.marvel.database
+com.wingoku.marvel.eventbus
+com.wingoku.marvel.fragments
+com.wingoku.marvel.fragments.presenters
+com.wingoku.marvel.interfaces
+com.wingoku.marvel.interfaces.components
+com.wingoku.marvel.interfaces.qualifiers
+com.wingoku.marvel.models
+com.wingoku.marvel.models.serverResponse
+com.wingoku.marvel.modules
+com.wingoku.marvel.utils
