@@ -1,0 +1,14 @@
+com.wingoku.punkBeer
+com.wingoku.punkBeer.adapters
+com.wingoku.punkBeer.application
+com.wingoku.punkBeer.database
+com.wingoku.punkBeer.eventBus
+com.wingoku.punkBeer.fragments
+com.wingoku.punkBeer.fragments.presenters
+com.wingoku.punkBeer.interfaces
+com.wingoku.punkBeer.interfaces.components
+com.wingoku.punkBeer.interfaces.qualifiers
+com.wingoku.punkBeer.models.db
+com.wingoku.punkBeer.models.serverResponse.punkAPI
+com.wingoku.punkBeer.modules
+com.wingoku.punkBeer.utils
